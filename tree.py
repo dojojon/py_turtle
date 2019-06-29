@@ -3,7 +3,6 @@ from random import randint
 
 speed(0)
 
-
 def draw_branch(len):
     
     if(len > 5):
