@@ -19,3 +19,8 @@ Open the [blank Python template trinket](http://jumpto.cc/python-new).
 [Snow Flakes](https://projects.raspberrypi.org/en/projects/turtle-snowflakes) - Make snowflakes
 
 [Trees](https://github.com/dojojon/py_turtle/blob/master/TREE.md) - Make trees
+
+## More Turtle
+
+[Official Documentation](https://docs.python.org/3/library/turtle.html)
+[More Examples](https://docs.python.org/3/library/turtle.html#module-turtledemo)
