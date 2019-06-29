@@ -2,9 +2,11 @@
 
 ## Projects
 
-[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race)
+[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) - Make a turtle racing games
 
-[Snow Flakes](https://projects.raspberrypi.org/en/projects/turtle-snowflakes)
+[Snow Flakes](https://projects.raspberrypi.org/en/projects/turtle-snowflakes) - Make snowflakes
+
+[Trees](https://github.com/dojojon/py_turtle/blob/master/TREE.md) - Make trees
 
 ## What you will need
 
