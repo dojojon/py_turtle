@@ -101,6 +101,12 @@ Use loops and recursion to create fractal trees.
 
     ![Trees](/simple_tree.png)
 
+1.  You can make thicker branches by using the following:
+
+    ```python
+    pensize(5)
+    ```
+
 1. You can speed up the drawing by adding the following to the top of the script:
 
     ```python
@@ -141,4 +147,6 @@ Use loops and recursion to create fractal trees.
         circle(10)
         end_fill()
     ```
+
+
 
